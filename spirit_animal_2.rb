@@ -12,10 +12,10 @@ if "birthmonth" == "April"
   then "u r a kangaroo"
 end 
 if "birthmonth" == "May"
-  then "u r a 
+  then "u r a fox"
 end 
 if "birthmonth" == "June"
-  then "u r a fox"
+  then "u r a "
 end 
 if "birthmonth" == "July"
   then "u r a pola"
