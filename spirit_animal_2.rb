@@ -21,3 +21,9 @@ end
 if "birthmonth" == "August"
   then "you are a polar bear"
 end 
+"birthmonth" == "September"
+  then "you are a polar bear"
+end 
+if "birthmonth" == "October"
+then
+end
