@@ -2,7 +2,7 @@ if "birthmonth" == "january"
   then "you are a polar bear"
 end 
 if "birthmonth" == "Febuary"
-  then "you are a polar bear"
+  then ""
 end 
 if "birthmonth" == "March"
   then "you are a polar bear"
