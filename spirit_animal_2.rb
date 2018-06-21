@@ -15,7 +15,7 @@ if "birthmonth" == "May"
   then "u r a fox"
 end 
 if "birthmonth" == "June"
-  then "u r a "
+  then "u r a blob fish"
 end 
 if "birthmonth" == "July"
   then "u r a pola"
