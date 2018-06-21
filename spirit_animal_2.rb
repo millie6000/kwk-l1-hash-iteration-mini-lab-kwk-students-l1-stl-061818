@@ -18,10 +18,10 @@ if "birthmonth" == "June"
   then "u r a blob fish"
 end 
 if "birthmonth" == "July"
-  then "u r a pola"
+  then "u r a lion"
 end 
 if "birthmonth" == "August"
-  then "u r a polar bear"
+  then "u r a "
 end 
 "birthmonth" == "September"
   then "u r a polar bear"
