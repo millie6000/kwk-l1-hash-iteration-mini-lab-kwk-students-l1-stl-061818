@@ -1,34 +1,36 @@
+reqiure'colorize' 
 if "birthmonth" == "january"
-  then "you are a polar bear"
+  then "u are a polar bear".colorize(:)
 end 
 if "birthmonth" == "Febuary"
-  then ""
+  then "u r a wooly mammoth"
 end 
 if "birthmonth" == "March"
-  then "you are a polar bear"
+  then "u r a poision dart frog"
 end 
 if "birthmonth" == "April"
-  then "you are a polar bear"
+  then "u r a kangaroo"
 end 
 if "birthmonth" == "May"
-  then "you are a polar bear"
-end if "birthmonth" == "June"
-  then "you are a polar bear"
+  then "u r a 
+end 
+if "birthmonth" == "June"
+  then "u r a fox"
 end 
 if "birthmonth" == "July"
-  then "you are a polar bear"
+  then "u r a pola"
 end 
 if "birthmonth" == "August"
-  then "you are a polar bear"
+  then "u r a polar bear"
 end 
 "birthmonth" == "September"
-  then "you are a polar bear"
+  then "u r a polar bear"
 end 
 if "birthmonth" == "October"
-then
+then "u r a "
 end
 if "birthmonth" == "November"
-then
+then "u r a "
 end
 if "birthmonth" == "December"
   then 
