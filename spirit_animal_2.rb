@@ -34,4 +34,4 @@ if "birthmonth" == "November"
 then "u r a whale shark"
 end
 if "birthmonth" == "December"
-  then "u r a "
+  then "u r a snowy owl"
