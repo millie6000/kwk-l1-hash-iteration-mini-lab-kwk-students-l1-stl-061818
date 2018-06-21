@@ -21,10 +21,11 @@ if "birthmonth" == "July"
   then "u r a lion"
 end 
 if "birthmonth" == "August"
-  then "u r a "
-end 
-"birthmonth" == "September"
-  then "u r a polar bear"
+  then "u r a if phoenix"
+end
+if == "September"
+  then "u r a dragon"
+  ""
 end 
 if "birthmonth" == "October"
 then "u r a "
