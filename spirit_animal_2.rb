@@ -1,37 +1,36 @@
-reqiure'colorize' 
-if birthmonth == "january"
-  then "u are a polar bear".colorize(:)
+ if birthmonth == "january"
+  puts"u are a polar bear"
 end 
 if birthmonth == "Febuary"
-  then "u r a wooly mammoth"
+  puts "u r a wooly mammoth"
 end 
 if birthmonth == "March"
-  then "u r a poision dart frog"
+  puts "u r a poision dart frog"
 end 
 if birthmonth == "April"
-  then "u r a kangaroo"
+  puts "u r a kangaroo"
 end 
 if birthmonth == "May"
-  then "u r a fox"
+  puts "u r a fox"
 end 
 if birthmonth == "June"
-  then "u r a blob fish"
+  puts "u r a blob fish"
 end 
 if birthmonth == "July"
   puts "u r a lion"
 end 
 if birthmonth == "August"
-  then "u r a if phoenix"
+  puts "u r a if phoenix"
 end
 if birthmonth == "September"
-  then "u r a dragon"
+  puts "u r a dragon"
   ""
 end 
 if birthmonth == "October"
-then "u r a lobster moth"
-end
+puts "u r a lobster moth"
+end 
 if birthmonth == "November"
-then "u r a whale shark"
+puts "u r a whale shark"
 end
 if birthmonth == "December"
-  then "u r a snowy owl"
+  puts "u r a snowy owl"
