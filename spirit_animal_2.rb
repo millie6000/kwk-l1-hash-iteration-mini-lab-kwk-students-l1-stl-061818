@@ -31,7 +31,7 @@ if "birthmonth" == "October"
 then "u r a lobster moth"
 end
 if "birthmonth" == "November"
-then "u r a  "
+then "u r a whale shark"
 end
 if "birthmonth" == "December"
-  then 
+  then "u r a "
