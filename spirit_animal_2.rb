@@ -28,10 +28,10 @@ if == "September"
   ""
 end 
 if "birthmonth" == "October"
-then "u r a "
+then "u r a lobster moth"
 end
 if "birthmonth" == "November"
-then "u r a "
+then "u r a  "
 end
 if "birthmonth" == "December"
   then 
