@@ -1,4 +1,5 @@
- if birthmonth == "january"
+ def spirit_animal
+   if birthmonth == "january"
   puts"u are a polar bear"
 end 
 if birthmonth == "Febuary"
